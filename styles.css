@@ -5,7 +5,7 @@ body {
 .info-ramme {
     border: 3px solid rgb(0, 0, 0);
     padding: 10px;
-    margin-right: 1000px;
+    margin-right: 1100px;
 }
 span.inner-text-border {
     border: 4px solid rgba(100, 100, 100, 0.692);
@@ -22,6 +22,7 @@ span.spacing {
 }
 .overskrift {
     background-image: url("img/texture-background.avif");
+    background-repeat: no-repeat;
     color: rgb(0, 0, 0);
     padding: 10px;
     margin-right: 340px;
