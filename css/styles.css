@@ -8,7 +8,7 @@ body {
     border: 3px solid rgb(0, 0, 0);
     padding: 10px;
     max-width: 100%;
-    border-radius: 25px;
+    border-radius: 25px; /*border-radius lager en curve på rammen*/
     background-color: lightgreen;
 }
 .bilde-ramme{
@@ -16,6 +16,7 @@ body {
     max-width: 100%;
     border-radius: 25px;
 }
+/*Alt med topnav er alt av utseende til menyen med lenkene*/
 .topnav {
     overflow: hidden;
     background-color: #333;
