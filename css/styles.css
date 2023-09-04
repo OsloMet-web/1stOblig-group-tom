@@ -39,13 +39,3 @@ body {
     color: white;
     border-radius: 10px;
 }
-.column {
-    float: left;
-    width: 48%;
-    padding: 10px;    
-}
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
