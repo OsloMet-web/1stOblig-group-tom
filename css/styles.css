@@ -18,7 +18,8 @@ body {
 }
 .topnav {
     overflow: hidden;
-    background-color: #333; 
+    background-color: #333;
+    border-radius: 10px;
 }
 .topnav a {
     float: left;
@@ -27,6 +28,7 @@ body {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    border-radius: 10px;
 }
 .topnav a:hover {
     background-color: #ddd;
@@ -35,6 +37,7 @@ body {
 .topnav a.active {
     background-color: #04AA6D;
     color: white;
+    border-radius: 10px;
 }
 .column {
     float: left;
